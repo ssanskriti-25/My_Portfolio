@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.6b4f5412.css",
+    "main.js": "/My_Portfolio/static/js/main.3bb43c44.js",
+    "static/js/592.599f76a2.chunk.js": "/My_Portfolio/static/js/592.599f76a2.chunk.js",
+    "static/media/1710405630689.jpg": "/My_Portfolio/static/media/1710405630689.92a06bee8a95026663f1.jpg",
+    "static/media/Sanskriti_Resume.pdf": "/My_Portfolio/static/media/Sanskriti_Resume.22bc253e6066f5969e7a.pdf",
+    "index.html": "/My_Portfolio/index.html",
+    "main.6b4f5412.css.map": "/My_Portfolio/static/css/main.6b4f5412.css.map",
+    "main.3bb43c44.js.map": "/My_Portfolio/static/js/main.3bb43c44.js.map",
+    "592.599f76a2.chunk.js.map": "/My_Portfolio/static/js/592.599f76a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b4f5412.css",
+    "static/js/main.3bb43c44.js"
+  ]
+}
