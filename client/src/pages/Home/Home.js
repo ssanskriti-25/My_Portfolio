@@ -42,14 +42,14 @@ const Home = () => {
           </Fade>
           <Fade bottom>
             <div className="home-buttons">
-              <a
+              {/* <a
                 className="btn btn-hire"
-                href="https://api.whatsapp.com/send?phone=1234567890"
+                href="https://api.whatsapp.com/send?phone=9670214215"
                 rel="noreferrer"
                 target="_blank"
               >
                 Hire Me
-              </a>
+              </a> */}
               <a className="btn btn-cv" href={Resume} download="Sanskriti_Resume.pdf">
                 My Resume
               </a>
